@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Learnix**
 - 🌱 I’m currently learning **Django, Java**
 
-- 📫 How to reach me **harshap3712@gmail.com**
+- 📫 How to reach me **harshap3712@gmail.com*
 
 <div> <a href="https://twitter.com/HarshaSaiP" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/harshasaipolnati" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
