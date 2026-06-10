@@ -19,6 +19,7 @@
 🚀 Projects
 - Campus Placement Tracker
 - Learnix
+- EduWork
 - Various Web Development & Java Projects
 
 📫 Contact
