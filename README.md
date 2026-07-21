@@ -17,7 +17,7 @@
 - Tools: Git, Docker, Linux
 
 🚀 Projects
-- Campus Placement Tracker
+- EZPlace
 - Learnix
 - EduWork
 - Various Web Development & Java Projects
